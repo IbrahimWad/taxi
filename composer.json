@@ -1,0 +1,14 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "twilio/sdk": "^7.5",
+        "textalk/websocket": "^1.6",
+        "react/socket": "^1.12",
+        "react/http": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "Get"
+        }
+    }
+}
